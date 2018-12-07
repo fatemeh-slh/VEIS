@@ -1,5 +1,9 @@
 # VEIS: Virtual Environment for Instance Segmentation
-[Effective Use of Synthetic Data for Urban Scene Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fatemeh_Sadat_Saleh_Effective_Use_of_ECCV_2018_paper.pdf)
+
+This repository contains the VEIS dataset introduced in 
+[Effective Use of Synthetic Data for Urban Scene Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fatemeh_Sadat_Saleh_Effective_Use_of_ECCV_2018_paper.pdf), ECCV 2018, Munich.
+
+
 ![](git.png)
 ## Description
 
