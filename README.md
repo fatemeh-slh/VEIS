@@ -12,14 +12,19 @@ This is due to the fact that, while not realistic in texture, the foreground obj
 
 ## Download
 You can download the RGB images of the dataset here:
+
 [Part1](https://drive.google.com/file/d/1S2NgEEdV51vopU_33x_8mTx_D03X3Y-e/view?usp=sharing)
+
 [Part2](https://drive.google.com/file/d/1h-PqddcVCeyQ-iccwDog6zMXzbuwDOvp/view?usp=sharing)
+
 [Part3](https://drive.google.com/file/d/1R7lnkf1qk9NOskZf_hXJY6YKeVgW1ZLV/view?usp=sharing)
 
 Please note you need to download all parts in the same directory to be able to extract them.
 
 You can also download pixel-level annotation and instance-level annotation here:
+
 [pixel-level annotation](https://drive.google.com/file/d/1AWKETfGribuX6lB_msvaQBA6cyU6wbX3/view?usp=sharing)
+
 [instance-level annotation](https://drive.google.com/file/d/1K1CBkilDQFJX0uNkazEK5RTZ8EOXG4lh/view?usp=sharing)
 ## Dataset Details
 The dataset contains 61305 images. 
